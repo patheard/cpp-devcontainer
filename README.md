@@ -5,3 +5,7 @@ C++ devcontainer using the [Code Runner extension](https://marketplace.visualstu
 # Setup
 1. [Build the devcontainer](https://code.visualstudio.com/docs/remote/containers-tutorial).
 1. In an open `.cpp` file, select `F1` and `Run Code`.
+
+# Debug
+1. Open a `.cpp` file and set a breakpoint.
+1. Select `F5` to start the debugger.
